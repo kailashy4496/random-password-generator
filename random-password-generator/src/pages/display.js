@@ -21,7 +21,7 @@ const Display = () => {
     };
 
     const copyPassword = () => {
-        alert("Copied Password");
+        alert("COPIED PASSWORD !");
         navigator.clipboard.writeText(password);
         setCopied(true);
     };
