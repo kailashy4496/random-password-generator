@@ -1,0 +1,14 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  background-color: #1a2a56;
+}
+
+.App{
+  margin-top: 12%;
+  padding-left: 10%;
+}

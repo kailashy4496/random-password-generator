@@ -1,0 +1,46 @@
+.display {
+  width: 100%;
+  margin-top: 50px;
+  margin-bottom: 30px;
+  background: #fff;
+  color: #333;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 25px 20px;
+  border-radius: 10px;
+}
+
+.display input {
+  width: 100%;
+  border: 0;
+  outline: 0;
+  font-size: 25px;
+}
+
+.copy {
+  font-size: 30px;
+}
+
+.copy:hover {
+  transform: scale(1.05);
+}
+
+Button {
+  border: 0;
+  outline: 0;
+  background: #34ad29;
+  color: #fff;
+  font-size: 22px;
+  font-weight: 300;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 16px 26px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+Button:hover {
+  transform: scale(1);
+}
